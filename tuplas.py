@@ -1,0 +1,6 @@
+colores=("Azul","Verde","Rojo","Amarillo","Blanco","Negro","Gris")
+print("color: ", colores[3])
+print("color: ", colores[0])
+print("color: ", colores[2])
+print("color: ", colores[1])
+print("color: ", colores[5])
